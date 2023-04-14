@@ -22,7 +22,7 @@ html, body {
 }
 
 header {
-    background-color: #662400;
+    background-color: #8f4923;
     color: white;
     text-align: center;
 }
@@ -59,10 +59,11 @@ section {
 
 section > p {
     padding-bottom: 2em;
+    text-shadow: rgba(0, 0, 0, 0.502) 1px 1px 1px;
 }
 
 section.normal {
-    background-color: #ff6a1a69;
+    background-color: #fb8e5469;
     color: white;
 }
 
@@ -90,7 +91,7 @@ section#img02 {
 }
 
 footer {
-    background-color: #662400;
+    background-color: #8f4923;
     color: white;
     text-align: center;
     padding: 10px;
